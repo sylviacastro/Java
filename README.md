@@ -1,3 +1,3 @@
 # Java
 
-This repo contains my Java codes.
+This repo contains my Java code.
